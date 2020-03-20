@@ -20,7 +20,8 @@ urlpatterns = [
     ),
 ]
 
-if settings.DEBUG:
+#if settings.DEBUG:
+if False :
     import warnings
 
     try:
